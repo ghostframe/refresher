@@ -31,14 +31,14 @@ import Question from "./Question"
 
 const mockQuestions =  [
   {
-    text: "What is love?",
-    choices: ["Baby don't hurt me", "Baby don't hit me", "Hurt don't baby me"],
+    text: "What is the square root of four?",
+    choices: ["Two", "Five", "Three hundred"],
     rightChoiceIndex: 0
   },
   {
-    text: "What is hate?",
-    choices: ["Baby don't hurt me", "Baby don't hit me", "Hurt don't baby me"],
-    rightChoiceIndex: 0
+    text: "What is love?",
+    choices: ["Baby don't hit me", "Baby don't hurt me"],
+    rightChoiceIndex: 1
   }
 ]
 
