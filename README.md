@@ -1,6 +1,4 @@
-# vue-test
-
-> A Vue.js project
+# Refresher
 
 ## Build Setup
 
